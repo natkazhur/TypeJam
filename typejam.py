@@ -2,7 +2,7 @@ import sys
 import time
 import threading
 
-from PyQt5 import QtGui, QtWidgets, p
+from PyQt5 import QtGui, QtWidgets
 from PyQt5.QtCore import Qt, QTimer
 from PyQt5.QtGui import QTextCursor, QTextCharFormat
 from PyQt5.QtMultimedia import QSound
